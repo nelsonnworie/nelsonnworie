@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi I'm Nelson 👋
 
 <!--
-**nelsonnworie/nelsonnworie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blockchain Data Analyst & On-chain Researcher with a strong focus on turning raw blockchain data into clear insights, metrics, and stories** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧠 What I do
+- On-chain data analysis using **SQL & Dune Analytics**
+- Protocol-level research (DeFi, liquidity pools, user behavior)
+- Data storytelling: turning metrics into clear narratives
+- Evidence-based writing for crypto and Web3 audiences
+
+### 🛠 What I’ve built
+- On-chain dashboards analyzing protocol activity, volume, and users
+- Research-driven breakdowns of DeFi protocols and token mechanics
+- Data-backed insights for content, strategy, and decision-making
+
+### 🔍 Currently focused on
+- DeFi protocol analytics (Curve, Aave, DEXs)
+- User behavior & liquidity analysis
+- Building public, reproducible dashboards on Dune
+
+### 📫 Find me here
+- Dune Analytics: *(add link)*
+- X (Twitter): *(add link)*
+- LinkedIn: *(add link)*
 -->
