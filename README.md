@@ -2,7 +2,7 @@
 
 **Blockchain Data Analyst & On-chain Researcher transforming raw blockchain data into actionable insights, metrics, and narratives that drive smart business decisions** 
 
-📄 <a href="CV-link" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#4CAF50; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
+📄 <a href="https://www.notion.so/Data-Analyst-On-chain-Researcher-Data-Storyteller-f7813bd54f88827a851981cfed353ec5" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#4CAF50; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
   MY CV 
 </a>
 |
