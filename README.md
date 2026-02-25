@@ -2,6 +2,13 @@
 
 **Blockchain Data Analyst & On-chain Researcher with a strong focus on turning raw blockchain data into clear insights, metrics, and stories** 
 
+📄 <a href="CV-link" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#4CAF50; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
+  MY CV 
+</a>
+|
+<a href="Dune-Portfolio-link" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#1DA1F2; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
+  Dune Portfolio
+</a>
 
 ### What I do
 - On-chain data analysis using **SQL & Dune Analytics**
@@ -50,11 +57,6 @@
 
 
 
-
-### Find me here
-- Dune Analytics: *(add link)*
-- X (Twitter): *(add link)*
-- LinkedIn: *(add link)*
 
 
 
