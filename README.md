@@ -41,21 +41,24 @@
 - **Uniswap Protocol Overview Dashboard:** tracked unique users, transaction counts, USD volume, and daily activity trends — [Dune link](https://dune.com/sir_nelson/uniswap-overview-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 
 
-### 📫 Find me here
-<a href="https://x.com/Ser_nelson" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" style="border-radius:50%; background:#1DA1F2; padding:5px;" />
-</a>
-<a href="https://www.linkedin.com/in/nelson-ike-nworie/" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="border-radius:50%; background:#0A66C2; padding:5px;" />
-</a>
-<a href="https://t.me/nelsonnworie" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40" style="border-radius:50%; background:#26A5E4; padding:5px;" />
-</a>
-<a href="mailto:your.nelsonikenworie@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="border-radius:50%; background:#D14836; padding:5px;" />
-</a>
+<h3 align="center">📫 Find Me Here</h3>
 
+<br/>
 
+<p align="center">
+  <a href="https://x.com/Ser_nelson" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="28" height="28" style="background:#000000; border-radius:50%; padding:6px;" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nelson-ike-nworie/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" style="background:#0A66C2; border-radius:50%; padding:6px;" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/nelsonnworie" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="28" height="28" style="background:#26A5E4; border-radius:50%; padding:6px;" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nelsonikenworie@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" height="28" style="background:#EA4335; border-radius:50%; padding:6px;" />
+  </a>
+</p>
 
 
 
