@@ -27,15 +27,29 @@
 - Marketing analytics & performance insight  
 
 ### Tech Stack
-- **SQL**
-- **Dune Analytics**
-- **Ethereum / EVM data**
-- **Python** *(learning)*
-- **Data visualization & dashboards*
+- **SQL** - **Dune Analytics** - **Ethereum / EVM data** - **Python** *(learning)* - **Data visualization & dashboards*
 
 ### Key Wins
 - **7-Day BTC Drawdown Dashboard:** analyzed short-term price behavior, volatility expansion, and momentum using rolling averages and percentage changes — [Dune link](https://dune.com/sir_nelson/bitcoin-price-crash-last-7-days?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 - **Uniswap Protocol Overview Dashboard:** tracked unique users, transaction counts, USD volume, and daily activity trends — [Dune link](https://dune.com/sir_nelson/uniswap-overview-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+
+
+### 📫 Find me here
+<a href="https://x.com/Ser_nelson" target="_blank" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" style="border-radius:50%; background:#1DA1F2; padding:5px;" />
+</a>
+<a href="https://www.linkedin.com/in/nelson-ike-nworie/" target="_blank" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="border-radius:50%; background:#0A66C2; padding:5px;" />
+</a>
+<a href="https://t.me/nelsonnworie" target="_blank" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40" style="border-radius:50%; background:#26A5E4; padding:5px;" />
+</a>
+<a href="mailto:your.nelsonikenworie@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="border-radius:50%; background:#D14836; padding:5px;" />
+</a>
+
+
+
 
 ### Find me here
 - Dune Analytics: *(add link)*
