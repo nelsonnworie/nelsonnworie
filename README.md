@@ -6,7 +6,7 @@
   MY CV 
 </a>
 |
-<a href="Dune-Portfolio-link" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#1DA1F2; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
+<a href="https://dune.com/sir_nelson" target="_blank" style="display:inline-block; margin-right:10px; padding:8px 16px; background:#1DA1F2; color:white; border-radius:8px; text-decoration:none; font-weight:bold;">
   Dune Portfolio
 </a>
 
