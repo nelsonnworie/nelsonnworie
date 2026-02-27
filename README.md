@@ -37,6 +37,7 @@
 - **SQL** - **Dune Analytics** - **Ethereum / EVM data** - **Python** *(learning)* - **Data visualization & dashboards*
 
 ### Key Wins
+- **Curve Finance Protocol Metrics Overview:** provided a comprehensive overview of activity, usage, liquidity distribution, and revenue metrics for the Curve Finance protocol on Ethereum. — [Dune link](https://dune.com/sir_nelson/curve-finance-protocol-metrics-overview?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 - **7-Day BTC Drawdown Dashboard:** analyzed short-term price behavior, volatility expansion, and momentum using rolling averages and percentage changes — [Dune link](https://dune.com/sir_nelson/bitcoin-price-crash-last-7-days?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 - **Uniswap Protocol Overview Dashboard:** tracked unique users, transaction counts, USD volume, and daily activity trends — [Dune link](https://dune.com/sir_nelson/uniswap-overview-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 
