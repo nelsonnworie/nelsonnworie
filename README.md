@@ -37,9 +37,21 @@
 - **SQL** - **Dune Analytics** - **Ethereum / EVM data** - **Python** *(learning)* - **Data visualization & dashboards*
 
 ### Key Wins
-- **Curve Finance Protocol Metrics Overview:** provided a comprehensive overview of activity, usage, liquidity distribution, and revenue metrics for the Curve Finance protocol on Ethereum. — [Dune link](https://dune.com/sir_nelson/curve-finance-protocol-metrics-overview?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+
+- **Balancer Analytics Dashboard:** A comprehensive dashboard analyzing trading activity, liquidity pools, user participation, and protocol revenue over the last 30 days. Covers swaps, unique users, volume by version, top pools, daily activity, gas costs across chains, and LP fees — [Dune link](https://dune.com/sir_nelson/balancer-analytics-dashboard)  
+
+- **Curve Finance Protocol Metrics Overview:** provided a comprehensive overview of activity, usage, liquidity distribution, and revenue metrics for the Curve Finance protocol on Ethereum — [Dune link](https://dune.com/sir_nelson/curve-finance-protocol-metrics-overview?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+
+- **$GRASS Trader Retention Dashboard (Solana):** Provides an overview of trader retention and new user activity for the $GRASS token on Solana, using a daily timeframe. Tracks how many new traders join over time, how many continue to trade ($GRASS) on subsequent days, and the overall retention rate trends — [Dune link](https://dune.com/sir_nelson/overview-of-traders-retention-of-grass-token-on-solana-using-daily-timeframe)
+
+- **THQ Token Onchain Activity Analysis:** Independent on-chain analysis of THQ token activity including daily holder growth, transfer volume, and wallet distribution. Built as part of ongoing Theoriq ecosystem research — [Dune link](https://dune.com/sir_nelson/thq-token-adoption-and-activity-on-ethereum)
+
 - **7-Day BTC Drawdown Dashboard:** analyzed short-term price behavior, volatility expansion, and momentum using rolling averages and percentage changes — [Dune link](https://dune.com/sir_nelson/bitcoin-price-crash-last-7-days?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+ 
 - **Uniswap Protocol Overview Dashboard:** tracked unique users, transaction counts, USD volume, and daily activity trends — [Dune link](https://dune.com/sir_nelson/uniswap-overview-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+
+
+
 
 
 <h3 align="center">📫 Find Me Here</h3>
