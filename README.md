@@ -34,7 +34,11 @@
 - Marketing analytics & performance insight  
 
 ### Tech Stack
-- **SQL** - **Dune Analytics** - **Ethereum / EVM data** - **Python** *(learning)* - **Data visualization & dashboards*
+
+* **Languages:** SQL, Python (Pandas, Web3.py, BeautifulSoup)
+* **On-chain Analytics:** Dune Analytics, Ethereum/EVM Data Structures, Solana/SVM (Dune)
+* **Developer Tools:** VS Code, Git, GitHub, Jupyter Notebooks
+* **Visualization:** Dune Dashboards, Excel, Google Sheets
 
 ### Key Wins
 
